@@ -8,7 +8,8 @@
 
 | JetSetGO! |
 | --- |
-| <img width="700" alt="01-inspiration" src="PASTE_01-inspiration.jpg_LINK_HERE" /> |
+| <img width="700"  src="<img width="1381" height="598" alt="image" src="https://github.com/user-attachments/assets/41f3fb41-9869-4d43-8ead-865ba1c5bfb1" />
+" /> |
 
 </div>
 
@@ -344,13 +345,14 @@ I used 2 Depron sheets of 65 × 100 cm.
 
 | Depron Sheet |
 | --- |
-| <img width="450" alt="16-depron-sheet" src="![Uploading image.png…]()
+| <img width="450" alt="16-depron-sheet"    <img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/627ac38b-48ab-4381-95f1-2a8644b0faa2" />
+
 " /> |
 
 | Taped Depron |
 | --- |
-| <img width="600" alt="17-taped-depron" src="![Uploading image.png…]()
-" /> |
+| <img width="600" alt="17-taped-depron" <img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/9f55965d-7741-4720-be04-ec1b0b5a7dfb" />
+
 
 </div>
 
