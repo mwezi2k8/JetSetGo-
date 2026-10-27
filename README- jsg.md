@@ -45,7 +45,8 @@ But I was not satisfied with that, so after some more research and going through
 
 | Inspiration |
 | --- |
-| <img width="700" alt="01-inspiration" src="PASTE_01-inspiration.jpg_LINK_HERE" /> |
+| <img width="700" alt="01-inspiration" src="<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/8d84d017-9df3-4c03-9409-a2052192c27b" />
+" /> |
 
 *This was my inspiration, which I found on the internet.*
 
@@ -65,7 +66,8 @@ The concept is a **twin-motor high-wing trainer**. Next was researching wings, t
 
 | Armin Wing |
 | --- |
-| <img width="600" alt="02-armin-wing" src="PASTE_02-armin-wing.jpg_LINK_HERE" /> |
+| <img width="600" alt="02-armin-wing" src="<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/24a0d1ba-c4cc-4c95-89e2-96609e209a19" />
+" /> |
 
 </div>
 
@@ -76,7 +78,8 @@ Inspired by my childhood favourite, the **V-22 Osprey style H-tail**.
 
 | V-22 Osprey |
 | --- |
-| <img width="600" alt="03-v22-osprey-tail" src="PASTE_03-v22-osprey-tail.jpg_LINK_HERE" /> |
+| <img width="600" alt="03-v22-osprey-tail" src="<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/b9d7b7e2-238b-4f67-8ce3-e3e3fbd9810f" />
+" /> |
 
 </div>
 
@@ -101,7 +104,8 @@ This sparked an interest in me and made me study the basics of aerodynamics and 
 
 | Forces on an Airplane |
 | --- |
-| <img width="600" alt="04-forces-on-airplane" src="PASTE_04-forces-on-airplane.jpg_LINK_HERE" /> |
+| <img width="600" alt="04-forces-on-airplane" src="<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/7bb93d87-eb32-436d-9fc5-8c80c891945d" />
+" /> |
 
 </div>
 
@@ -116,7 +120,8 @@ How is lift generated? Is there something special about the wings?
 
 | Airfoil |
 | --- |
-| <img width="600" alt="05-airfoil-cross-section" src="PASTE_05-airfoil-cross-section.jpg_LINK_HERE" /> |
+| <img width="600" alt="05-airfoil-cross-section" src="<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/631d4d0c-a89e-4c0e-afea-81d098563155" />
+" /> |
 
 </div>
 
@@ -128,7 +133,8 @@ The cross-section of the wing has its peculiar shape in order to generate lift. 
 
 | Lift Generation |
 | --- |
-| <img width="600" alt="06-lift-generation" src="PASTE_06-lift-generation.jpg_LINK_HERE" /> |
+| <img width="600" alt="06-lift-generation" src="<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/f25472a8-4aa4-4661-a20e-e0ce30c19427" />
+" /> |
 
 </div>
 
@@ -158,7 +164,8 @@ Time spent : 2 hours
 
 | Parts of a Plane |
 | --- |
-| <img width="600" alt="08-parts-of-plane" src="PASTE_08-parts-of-plane.jpg_LINK_HERE" /> |
+| <img width="600" alt="08-parts-of-plane" src="<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/b1482290-7f1c-48e2-8d1f-f18f8604eeee" />
+" /> |
 
 </div>
 
@@ -168,7 +175,8 @@ Time spent : 2 hours
 
 | Principal Axes |
 | --- |
-| <img width="600" alt="09-principal-axes" src="PASTE_09-principal-axes.jpg_LINK_HERE" /> |
+| <img width="600" alt="09-principal-axes" src="<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/143a5705-eb10-4d07-b061-6a62a9d617c0" />
+" /> |
 
 </div>
 
@@ -187,7 +195,8 @@ The point at which torques and forces are balanced is the **Centre of Gravity (C
 
 | Wing Positions |
 | --- |
-| <img width="400" alt="10-wing-positions" src="PASTE_10-wing-positions.jpg_LINK_HERE" /> |
+| <img width="400" alt="10-wing-positions" src="<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/794a095e-5aa9-4448-a234-d497ab665a3d" />
+" /> |
 
 </div>
 
@@ -199,7 +208,8 @@ The point at which torques and forces are balanced is the **Centre of Gravity (C
 
 | Aspect Ratio |
 | --- |
-| <img width="600" alt="11-aspect-ratio" src="PASTE_11-aspect-ratio.jpg_LINK_HERE" /> |
+| <img width="600" alt="11-aspect-ratio" src="<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/93b0e1ec-13cc-42b6-9700-6835cf99ab3f" />
+" /> |
 
 </div>
 
@@ -314,7 +324,8 @@ After getting the major dimensions, many rough tries and some wasted sheets of p
 
 | First Sketch |
 | --- |
-| <img width="500" alt="15-first-sketch" src="PASTE_15-first-sketch.jpg_LINK_HERE" /> |
+| <img width="500" alt="15-first-sketch" src="<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/b3a09e1c-01c0-4dc5-bcab-31ecfc792843" />
+" /> |
 
 </div>
 
@@ -333,11 +344,13 @@ I used 2 Depron sheets of 65 × 100 cm.
 
 | Depron Sheet |
 | --- |
-| <img width="450" alt="16-depron-sheet" src="PASTE_16-depron-sheet.jpg_LINK_HERE" /> |
+| <img width="450" alt="16-depron-sheet" src="![Uploading image.png…]()
+" /> |
 
 | Taped Depron |
 | --- |
-| <img width="600" alt="17-taped-depron" src="PASTE_17-taped-depron.jpg_LINK_HERE" /> |
+| <img width="600" alt="17-taped-depron" src="![Uploading image.png…]()
+" /> |
 
 </div>
 
