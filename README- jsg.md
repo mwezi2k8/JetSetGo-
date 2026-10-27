@@ -1,183 +1,116 @@
-<div align="center">
-  <h1>JetSetGO!</h1>
-  <h3>A RC high wing, bi-propellor trainer plane</h3>
-  <h3>Total Time Spent : 13+ Hours </h3>
-</div>
+# JetSetGO! - A RC high wing, bi-propellor trainer plane
 
-<div align="center">
+Total time spent : 13+ hours
 
 <img width="700" alt="image" src="https://github.com/user-attachments/assets/41f3fb41-9869-4d43-8ead-865ba1c5bfb1" />
 
-</div>
-
 ---
 
-### Journal #1 Building my first RC aircraft!
+### JOURNAL #1 BUILDING MY FIRST RC AIRCRAFT!
 Time spent : 1 hour 20 minutes
 
 Deciding the basic design.
-
 From a long time, I was fascinated by seeing rc trainers online, so I wanted to build one and I decided why not for expedition!
-So I went off researching about different aircrafts for beginners, mostly YouTube and internet surfing.
+So I went off researching about different aircrafts for beginners, mostly YouTube and internet surfing
 Since this was my first aircraft, the most beginner friendly one I found is a standard high wing rc trainer.
-But I was not satisfied by that so after some more research and going through different innovative designs, I decided to build a bi-propellor :D
+But I was not satisfied by that so after some more research and going through different innovative designs, I decided to build a bi-propellor.
 
-<div align="center">
-
-| Inspiration |
-| --- |
-| <img width="650" alt="image" src="https://github.com/user-attachments/assets/8d84d017-9df3-4c03-9409-a2052192c27b" /> |
+<img width="650" alt="image" src="https://github.com/user-attachments/assets/8d84d017-9df3-4c03-9409-a2052192c27b" />
 
 This was my inspiration which I found on the internet.
 
-</div>
-
 ---
 
-### Journal #2 Research and concept
-Time spent : 3 hours 15 minutes (1 hour for wings, 2 hours 15 minutes for tail, fuselage, nose)
+### JOURNAL #2 Research and concept
+Time spent : 1 hour for wings, 2 hours 15 minutes for tail, fuselage, nose) 3 hours 15 minutes
 
-The concept is a twin-motor high-wing trainer, next was researching for wings, tails, fins etc.
+The concept is a twin-motor high-wing trainer, next was researching for wings, tails, fins e.t.c
 After going through random YouTube videos and some websites, what I finalised was -
 
-A. Wings - Armin folded wing with two counter-rotating motors in pods under the wing.
+A. Wings- Armin folded wing with two counter-rotating motors in pods under the wing.
 
-<div align="center">
+<img width="550" alt="image" src="https://github.com/user-attachments/assets/24a0d1ba-c4cc-4c95-89e2-96609e209a19" />
 
-| Armin Wing |
-| --- |
-| <img width="550" alt="image" src="https://github.com/user-attachments/assets/24a0d1ba-c4cc-4c95-89e2-96609e209a19" /> |
+B. TAIL AND FINS - inspired from my childhood favourite V22 Osprey style H tail
 
-</div>
+<img width="550" alt="image" src="https://github.com/user-attachments/assets/b9d7b7e2-238b-4f67-8ce3-e3e3fbd9810f" />
 
-B. Tail and fins - inspired from my childhood favourite V22 Osprey style H tail
+C.NOSE - a square-pyramid nose, since there is no motor on the nose, a simple square pyramid nose does the job!
 
-<div align="center">
-
-| V22 Osprey |
-| --- |
-| <img width="550" alt="image" src="https://github.com/user-attachments/assets/b9d7b7e2-238b-4f67-8ce3-e3e3fbd9810f" /> |
-
-</div>
-
-C. Nose - a square-pyramid nose, since there is no motor on the nose, a simple square pyramid nose does the job!
-
-D. Fuselage - I was tired researching for wings, tail and nose so I decided to go on with a simple back tapered fuselage
+D.FUSELAGE - I was tired researching for wings, tail and nose so I decided to go on with a simple back tapered fuselage
 
 ---
 
-### Journal #3 Studying basics of aerodynamics
-Time spent : 2 hours 10 minutes
+### JOURNAL #3 Studying basics of aerodynamics
+Time spent : 2 hour 10 minutes
 
 While surfing through internet for finalising the designs and completing the concept, I realised that I can't randomly attach any part anywhere as I wish, everything needs to be planned to make it aerodynamically more efficient.
 Carelessly if I make one side of the wing slightly heavy or shift the CG, the game is over!
+This also sparked an interest in me which made me study basics of aerodynamics and making a rc trainer
+I studied about 2 hours 10 minutes , which I will try my best to further summarise below so someone with zero experience in aviation could understand the basics and reciprocate, also from this point I will be directly using those terminology
 
-This also sparked an interest in me which made me study basics of aerodynamics and making a rc trainer. I will try my best to summarise it below so someone with zero experience in aviation could understand the basics, also from this point I will be directly using those terminology
+3.1) forces on an airplane -
 
-**3.1) Forces on an airplane -**
+<img width="550" alt="image" src="https://github.com/user-attachments/assets/7bb93d87-eb32-436d-9fc5-8c80c891945d" />
 
-<div align="center">
+The negative forces are the drag and the weight, plane counters it by Thrust for Drag and lift for weight
 
-| Forces |
-| --- |
-| <img width="550" alt="image" src="https://github.com/user-attachments/assets/7bb93d87-eb32-436d-9fc5-8c80c891945d" /> |
-
-</div>
-
-The negative forces are the drag and the weight, plane counters it by thrust for drag and lift for weight
-
-**3.2) Airfoil and lift generation -**
-
+3.2) Airfoil and lift generation-
 How is the lift generated? Something special about the wings?
 
 Airfoil -
 
-<div align="center">
+<img width="550" alt="image" src="https://github.com/user-attachments/assets/631d4d0c-a89e-4c0e-afea-81d098563155" />
 
-| Airfoil |
-| --- |
-| <img width="550" alt="image" src="https://github.com/user-attachments/assets/631d4d0c-a89e-4c0e-afea-81d098563155" /> |
+The cross section of the wing and its peculiar shape is in order to generate lift
+Aerodynamic characteristics vary greatly with airfoil shape
 
-</div>
+Lift generation-
 
-The cross section of the wing and its peculiar shape is in order to generate lift. Aerodynamic characteristics vary greatly with airfoil shape
-
-Lift generation -
-
-<div align="center">
-
-| Lift |
-| --- |
-| <img width="550" alt="image" src="https://github.com/user-attachments/assets/f25472a8-4aa4-4661-a20e-e0ce30c19427" /> |
-
-</div>
+<img width="550" alt="image" src="https://github.com/user-attachments/assets/f25472a8-4aa4-4661-a20e-e0ce30c19427" />
 
 Due to the peculiar shape of the airfoil, a curvature is induced in the incoming airflow. Due to the asymmetry in this curvature on the top and bottom parts of the wing, a net upward lift is generated.
 
 Some more physics, the lift equation
 
-$$L = C_l \left(\frac{1}{2}\rho v^2\right) A$$
+L = Cl x (1/2 x ρ x v²) x A
 
-where L = lift, Cl = coefficient of lift, ρ = air density, v = velocity and A = wing area
+L = lift (N), Cl = coefficient of lift, ρ = density (kg/m³), v = velocity (m/s), A = wing area (m²)
 
 ---
 
-### Journal #4 Anatomy of the plane
+### JOURNAL #4 Anatomy of the plane
 Time spent : 2 hours
 
-**4.1) The parts -**
+4.1) The parts -
 
-<div align="center">
+<img width="550" alt="image" src="https://github.com/user-attachments/assets/b1482290-7f1c-48e2-8d1f-f18f8604eeee" />
 
-| Parts |
-| --- |
-| <img width="550" alt="image" src="https://github.com/user-attachments/assets/b1482290-7f1c-48e2-8d1f-f18f8604eeee" /> |
+4.2) Aircraft principal axis -
 
-</div>
-
-**4.2) Aircraft principal axis -**
-
-<div align="center">
-
-| Axes |
-| --- |
-| <img width="550" alt="image" src="https://github.com/user-attachments/assets/143a5705-eb10-4d07-b061-6a62a9d617c0" /> |
-
-</div>
+<img width="550" alt="image" src="https://github.com/user-attachments/assets/143a5705-eb10-4d07-b061-6a62a9d617c0" />
 
 So how the movement in each axes controlled?
 
-~ roll motion due to the movement of ailerons  
-~ yaw motion due to the movement of rudder  
-~ pitch motion due to the movement of elevator
+~roll motion due to the movement of ailerons  
+~Yaw motion due to the movement of rudder  
+~pitch motion due to the movement of elevator
 
-**4.3) Centre of gravity -**
-
-The point at which the torque and force are balanced is the Centre of Gravity.
+4.3) Centre of gravity-
+The point at which the torque and force are balanced is the Centre of Gravity
 It should lie either at or ahead of 1/4 of the chord length of the wing for neutral or positive stability, respectively.
 
-<div align="center">
-
-| Wing positions |
-| --- |
-| <img width="380" alt="image" src="https://github.com/user-attachments/assets/794a095e-5aa9-4448-a234-d497ab665a3d" /> |
-
-</div>
+<img width="380" alt="image" src="https://github.com/user-attachments/assets/794a095e-5aa9-4448-a234-d497ab665a3d" />
 
 High wing provides the roll stability!
 
-**4.4) Aspect ratio -**
+4.4) Aspect ratio -
 
-<div align="center">
+<img width="550" alt="image" src="https://github.com/user-attachments/assets/93b0e1ec-13cc-42b6-9700-6835cf99ab3f" />
 
-| Aspect ratio |
-| --- |
-| <img width="550" alt="image" src="https://github.com/user-attachments/assets/93b0e1ec-13cc-42b6-9700-6835cf99ab3f" /> |
+Higher AR → Better performance, better stability, but also leads to wing bending.
 
-</div>
-
-Higher AR → better performance, better stability, but also leads to wing bending.  
-Lower AR → great for structure, better maneuverability, but increases drag.
+Lower AR → Great for structure, better maneuverability, but increases drag.
 
 ---
 
@@ -185,16 +118,13 @@ Lower AR → great for structure, better maneuverability, but increases drag.
 Time spent : 45 minutes
 
 Considering the parts I already had the electronics I finalised are as follows;
-
 Two 1400 kV motors with 7×4 props, one normal and one reversed, spinning opposite ways so their torque cancels.
-
-Two 30 A ESCs on one throttle channel through a Y-lead, with the red wire removed from one ESC's plug which prevents two internal BECs (Battery Eliminator Circuits) from fighting each other and potentially damaging the electronics.
-
+Two 30 A ESCs on one throttle channel through a Y-lead, with the red wire removed from one ESC's plug which prevents two internal Battery Eliminator Circuits (BECs) from fighting each other and potentially damaging the electronics.
 One 3S battery feeding both ESCs through a parallel lead.
 
 ---
 
-### Journal #6 Material preparation
+### Journal #6 material preperation
 Time spent : 50 minutes
 
 I am adding a list of materials required, I had most of them, rest were borrowed from my friends garage
@@ -213,20 +143,17 @@ I am adding a list of materials required, I had most of them, rest were borrowed
 - Bamboo skewers, 4 rubber bands, velcro, small zip ties, popsicle sticks
 - Low-temperature hot glue sticks
 
-Tools -
-snap-off cutter with fresh blades, 100 cm steel ruler, set square, pencil, cutting mat, low-temperature glue gun, 120 and 240 sandpaper, pliers, wire cutter, vice, drill (3, 8 and 10 mm), kitchen scale, a few heavy books.
+Tools
+Snap-off cutter with fresh blades, 100 cm steel ruler, set square, pencil, cutting mat, low-temperature glue gun, 120 and 240 sandpaper, pliers, wire cutter, vice, drill (3, 8 and 10 mm), kitchen scale, a few heavy books.
 
 ---
 
 ### Journal #7 Design Calculations
-Time spent : 2 hours 40 minutes
+Time spent : 2 Hours 40 minutes
 
 I had depron sheet of 65*100cm, and a one-piece wing avoids a weak joint, so I fixed the span of 100cm
-
 So to pick the wing area from the weight, estimate the all up weight and divide by the wing loading.
 I approximated the weight as follows;
-
-<div align="center">
 
 | Part | Weight (g) |
 | --- | --- |
@@ -242,61 +169,46 @@ I approximated the weight as follows;
 | Tail and fins | 30 |
 | Landing gear | 30 |
 | Pushrods, horns, glue, tape | 65 |
-| **Total** | **≈ 800** |
-
-</div>
+| Total | ≈ 800 |
 
 Following the 40 g/dm² trainer wing loading we get the wing area as
 
-$$S = \frac{W}{40} = \frac{800}{40} = 20\ dm^2 \qquad c = \frac{S}{b} = \frac{2000}{100} = 20\ cm$$
+S = W / 40 = 800 / 40 = 20 dm²  
+c = S / b = 2000 cm² / 100 cm = 20 cm
 
 Hence the aspect ratio is
 
-$$AR = \frac{b}{c} = \frac{100}{20} = 5$$
+AR = b / c = 100 / 20 = 5
 
-The extra thrust from the bi propellor compensates for a little lower aspect ratio.
-Then I split the chord length of 20cm into 15cm + 5cm for ailerons.
+The extra thrust from the bi propellor compensates for a little lower aspect ratio
+Then I splitted the chord length of 20cm into 15cm + 5 cm for ailerons
 The fuselage should be about 0.8 of wingspan so we get a fuselage length of 80 cm
-
-This concludes all the major dimensions I need, the calculations took my patience to its limit but were indeed one of the most important part of this build. This really sets up how smooth a plane fliesss!
+This concludes all the major dimensions I need, the calculations took my patience to its limit but were indeed one of the most important part of this build
+This really sets up how smooth a plane fliesss!
 
 ---
 
-### Journal #8 Drawing the sketch
+### JOURNAL #8 Drawing the sketch
 Time spent :
 
 After getting the major dimensions, many rough tries and some wasted sheet of paper, the sketch I finalised is as follows
-(Ps: I suck at drawing but I still have that thing where I draw again and again till I like the sketch)
+(Ps: I suck at drawing but I still have that thing were I draw again and again till I like the sketch)
 
-<div align="center">
-
-| Sketch |
-| --- |
-| <img width="450" alt="image" src="https://github.com/user-attachments/assets/b3a09e1c-01c0-4dc5-bcab-31ecfc792843" /> |
-
-</div>
+<img width="450" alt="image" src="https://github.com/user-attachments/assets/b3a09e1c-01c0-4dc5-bcab-31ecfc792843" />
 
 So this was one of my first design, the next ones are improved and drawn after making the calculations
 
 ---
 
-### Journal #9 Taping, Drawing the parts
+### JOURNAL #9 Taping, Drawing the parts
 Time spent :
 
 The first step is to tape the depron from 1 side, it's a ritual you do before starting! Jokes apart, it helps in cutting the parts without breaking/cracking the depron
 
 I used 2 65*100cm depron sheets
 
-<div align="center">
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/627ac38b-48ab-4381-95f1-2a8644b0faa2" />
 
-| Depron sheet |
-| --- |
-| <img width="400" alt="image" src="https://github.com/user-attachments/assets/627ac38b-48ab-4381-95f1-2a8644b0faa2" /> |
-
-| Taped |
-| --- |
-| <img width="550" alt="image" src="https://github.com/user-attachments/assets/9f55965d-7741-4720-be04-ec1b0b5a7dfb" /> |
-
-</div>
+<img width="550" alt="image" src="https://github.com/user-attachments/assets/9f55965d-7741-4720-be04-ec1b0b5a7dfb" />
 
 Also note that the direction of taping is important as well
