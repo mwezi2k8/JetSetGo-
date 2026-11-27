@@ -1,6 +1,6 @@
 # JetSetGO! - A RC high wing, bi-propellor trainer plane
 
-Total time spent : 58 hours 03 minutes
+Total time spent : 61 hours 03 minutes
 
 ![JetSetGO flying over the field](media/jetsetgo-demo.gif)
 
@@ -486,7 +486,21 @@ The leads of both pods come along the bottom of the wing and meet in the middle,
 
 Ps: this part looks like a bowl of noodles right now, I will tidy and tape everything flat later.
 
-## Journal 21 — Wing on the fuselage
+## Journal 21 — Making the wiring schematic
+
+Time spent : 3 hours
+
+After soldering everything in journal #20 I drew the wiring in KiCad. There are wires coming from both sides of the wing and they all meet in the middle, so I wanted one place where I could see what goes where when I put the wing back on.
+
+I put the battery and receiver on the left of the page and gave each motor and ESC its own box on the right. One 3S battery feeds both ESCs through the T plug. Both ESCs get the same throttle signal through the Y-lead, but only one red BEC wire goes back to power the receiver. I marked the other one as disconnected, like the red wire I taped over in the last journal.
+
+The two aileron servos share a Y-lead too, and the elevator gets its own channel. I showed two motor wires swapped on the right side so I could see how the props spin opposite ways. I used labels for the wires going between boxes so the drawing didn't end up looking like another bowl of noodles :D
+
+![Journal 21, wiring schematic](images/jetsetgo-wiring.png)
+
+[KiCad schematic](JetSetGO_Wiring.kicad_sch)
+
+## Journal 22 — Wing on the fuselage
 
 Time spent : 30 minutes
 
@@ -496,7 +510,7 @@ I use ice cream sticks on both sides of the wing and rubber them with the fusela
 
 The wings and the fuselage are kept separated. I only attach it while flying.
 
-![Journal 21, image 46](images/46.jpg)
+![Journal 22, image 46](images/46.jpg)
 
 It already looks like a proper plane and not a pile of foam :D
 
