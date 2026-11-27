@@ -1,6 +1,6 @@
 # JetSetGO! - A RC high wing, bi-propellor trainer plane
 
-Total time spent : 56 hours 53 minutes
+Total time spent : 58 hours 03 minutes
 
 ![JetSetGO flying over the field](media/jetsetgo-demo.gif)
 
@@ -505,3 +505,7 @@ Next is flying!!!!!
 ## Flight demo
 
 [Watch JetSetGO over the field (15 seconds)](media/jetsetgo-demo.mp4)
+
+ps: i made a banner for this project (jet set go banner.kr)
+time spent 1 hour 10 minutes
+
