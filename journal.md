@@ -1,5 +1,9 @@
 # JetSetGO! - A RC high wing, bi-propellor trainer plane
 
+Total time spent : 56 hours 53 minutes
+
+![JetSetGO flying over the field](media/jetsetgo-demo.gif)
+
 ## Journal 1 — BUILDING MY FIRST RC AIRCRAFT!
 
 Time spent : 1 hour 20 minutes
@@ -430,7 +434,7 @@ I checked by dry-fitting the tail to the fuselage, for which I made a slot on th
 
 ![Journal 18, image 37](images/37.jpg)
 
-## Journal 16 — Elevator linkage
+## Journal 19 — Elevator linkage
 
 Time spent : 50 minutes
 
@@ -440,11 +444,11 @@ Taped it shut when done, one strip of tape, easy to open again.
 
 Next is to add servo horn and control rods like that on ailerons
 
-![Journal 16, image 38](images/38.jpg)
+![Journal 19, image 38](images/38.jpg)
 
 Checks - with the arm pointing down the elevator should be level, it should move smoothly by hand and the rod shouldn't rub on the slot ends. Also taped over the old slots on top of the fuselage and the tail
 
-## Journal 17 — Wiring the ESCs
+## Journal 20 — Wiring the ESCs
 
 Time spent : 3 hour 20 minutes
 
@@ -462,27 +466,27 @@ Both ESCs share one battery and one throttle channel.
 
 Power - the battery leads of both ESCs are soldered in parallel to one T plug, so one 3S battery feeds both. the ESCs are the red things in the pictures
 
-![Journal 17, image 39](images/39.jpg)
+![Journal 20, image 39](images/39.jpg)
 
 Throttle - both ESCs go on one channel through a Y-lead. On one of the two plugs the red wire is cut and taped over (you can see the red tape on the end), so the two BECs don't fight each other
 
-![Journal 17, image 40](images/40.jpg)
+![Journal 20, image 40](images/40.jpg)
 
 The leads of both pods come along the bottom of the wing and meet in the middle, together with the aileron servo leads
 
-![Journal 17, image 41](images/41.jpg)
+![Journal 20, image 41](images/41.jpg)
 
-![Journal 17, image 42](images/42.jpg)
+![Journal 20, image 42](images/42.jpg)
 
-![Journal 17, image 43](images/43.jpg)
+![Journal 20, image 43](images/43.jpg)
 
-![Journal 17, image 44](images/44.jpg)
+![Journal 20, image 44](images/44.jpg)
 
-![Journal 17, image 45](images/45.jpg)
+![Journal 20, image 45](images/45.jpg)
 
 Ps: this part looks like a bowl of noodles right now, I will tidy and tape everything flat later.
 
-## Journal 18 — Wing on the fuselage
+## Journal 21 — Wing on the fuselage
 
 Time spent : 30 minutes
 
@@ -492,7 +496,7 @@ I use ice cream sticks on both sides of the wing and rubber them with the fusela
 
 The wings and the fuselage are kept separated. I only attach it while flying.
 
-![Journal 18, image 46](images/46.jpg)
+![Journal 21, image 46](images/46.jpg)
 
 It already looks like a proper plane and not a pile of foam :D
 
