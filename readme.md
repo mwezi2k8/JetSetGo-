@@ -6,7 +6,7 @@ JetSetGO!
 
 <h3 align="center">A high-wing, twin-motor RC trainer made from Depron, with a motor pod under each wing and twin fins inspired by the V-22 Osprey.</h3>
 
-<p align="center">Total time spent : 56 hours 53 minutes</p>
+
 
 | Flight demo |
 | :---: |
